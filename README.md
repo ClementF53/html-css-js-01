@@ -1,7 +1,7 @@
 # html-css-js-01
 
 ## Pour les débutants, suivre les activités qui se trouvent [ici](https://pixees.fr/informatiquelycee/jbase_intro.html).
-## Sinon suivre ce cours: [lien](https://sti2d.ecolelamache.org/ap31_dcouverte_du_langage_javascript.html).
+## Sinon suivre ce cours: [ici](https://sti2d.ecolelamache.org/ap31_dcouverte_du_langage_javascript.html).
 
 ~Pour ceux qui ont une base, suivre le cours de Mozilla : [ici](https://developer.mozilla.org/fr/docs/Apprendre/JavaScript).~
 
